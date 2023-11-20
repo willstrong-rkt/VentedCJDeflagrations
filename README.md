@@ -47,7 +47,7 @@ NOTES:
 
 
 Willstrong Rakotoarison
-wrako07a@uottawa.ca
+wrako027@uottawa.ca
 willstrong.rkt@gmail.com
 
 Created on 		Jan. 2019
